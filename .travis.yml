@@ -20,4 +20,4 @@ script:
  - ./push.sh > /dev/null
 branches:
  only:
-  - hexo-source
+  - hexo-branch
