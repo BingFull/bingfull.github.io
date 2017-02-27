@@ -7,4 +7,4 @@ git config --global user.email "453476815@qq.com"
 git config --global user.name "BingFull" 
 git add --all .
 git commit -m "Travis CI Auto Builder"
-git push --quiet --force https://${Hexo_TOKEN}@https://github.com/BingFull/bingfull.github.io.git master
+git push --quiet --force https://${Hexo_TOKEN}@github.com/BingFull/bingfull.github.io.git master
