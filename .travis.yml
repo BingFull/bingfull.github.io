@@ -16,8 +16,16 @@ install:
 script:
  - hexo clean
  - hexo generate
- - chmod +x ./push.sh
- - ./push.sh > /dev/null
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN 
+  local_dir: ./public
+  email: "453476815@qq.com"
+  name: "Travis CI Auto Builder"
+  on:
+    branch:master
+  target_branch: master
 branches:
  only:
   - hexo-branch
