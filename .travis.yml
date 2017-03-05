@@ -24,7 +24,7 @@ deploy:
   email: "453476815@qq.com"
   name: "Travis CI Auto Builder"
   on:
-    branch: hexo-master
+    branch: hexo-branch
   target_branch: master
 branches:
  only:
