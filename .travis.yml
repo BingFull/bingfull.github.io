@@ -19,7 +19,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN 
+  github_token: $Hexo_TOKEN 
   local_dir: ./public
   email: "453476815@qq.com"
   name: "Travis CI Auto Builder"
