@@ -34,7 +34,7 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.ico
+favicon: /favicon.png
 
 #你的头像url
 avatar: "https://github.com/BingFull/bingfull.github.io/blob/master/img/avatar.png?raw=true"
