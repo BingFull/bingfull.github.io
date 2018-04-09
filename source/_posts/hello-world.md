@@ -46,5 +46,10 @@ $$ \sum\limits_{i=1}^{n}{x^2} $$
 ```
 Hello Travis CI
 ```
+###Test New Computer
+
+```
+Hello My Blog
+```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
