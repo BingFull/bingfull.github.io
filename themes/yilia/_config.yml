@@ -2,9 +2,7 @@
 menu:
   主页: /
   所有文章: /archives
-  标签: /tags
-  关于: /about
-  分类: /categories
+  归档: /categories
 
 # SubNav
 subnav:

@@ -71,3 +71,5 @@ deploy:
   type: git
   repo: https://github.com/BingFull/bingfull.github.io.git
   branch: master
+
+ 
