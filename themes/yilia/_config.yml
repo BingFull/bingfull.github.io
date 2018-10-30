@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: "https://github.com/BingFull/bingfull.github.io/blob/master/img/avatar.png"
+avatar: "https://raw.githubusercontent.com/BingFull/bingfull.github.io/master/img/avatar.png"
 
 #是否开启分享
 share_jia: false
