@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-10-30T11:40:21.576Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>BingFull</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello My Blog</title>
+    <link href="http://yoursite.com/2018/10/29/Hello-My-Blog/"/>
+    <id>http://yoursite.com/2018/10/29/Hello-My-Blog/</id>
+    <published>2018-10-29T09:50:42.000Z</published>
+    <updated>2018-10-30T11:40:21.576Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>本人程序猿一只，在初学算法与编程之时，常常有许多巧妙的算法思想让我感到深深地叹服，在膜拜众多大佬的同时，也想整理下这些算法，方便自己以后的学习和工作中用到，于是萌发了创建博客的想法~~<a id="more"></a></p><h3 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h3><p>网上有不少的博客网站，申请账号便可以很轻松地创建自己的博客，然而当我看到使用Hexo搭建独立博客的方法时，感觉很有意思，可以体验自己动手搭建的过程，而且有很多样式可以自由选择。说干就干，很快一个属于自己的博客就搭建起来了，虽然过程有点小复杂，而且遇到很多问题，但是网上的教程很多很详细，遇到的坑之前基本都有人踩过，所以问题迎刃而解。同时，在这个过程中，也学习到不少东西，包括github的使用、域名的解析配置、Markdown的语法等，成就感满满~~（关于使用Hexo搭建博客的教程网上有很多，这里我就不介绍了）</p><h3 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h3><p>个人博客搭建好了，在以后用来整理学习过程中学到的相关知识以及记录下生活中的点点滴滴，方便自己的同时，也将这些学习经验拿出来与大家分享。同时，也希望能够鞭策自己，勤学、勤总结、多提出自己的想法，才能不断进步~~</p><p>​    </p>]]></content>
+    
+    <summary type="html">
+    
+      This is my first blog!
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="Blog" scheme="http://yoursite.com/tags/Blog/"/>
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
